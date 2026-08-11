@@ -13,5 +13,5 @@
 | 2021 | Магазин натурального камня, добавление ~700 SKU | [Добавить страницу](https://example.com) |
 | 2022 | Магазин сантехники, добавление ~3000 SKU | [сантехбрянск.рф](https://github.com/ormviking/portfolio-ru/blob/main/files/b-01.md) |
 | 2022 | Продажа тротуарной плитки, замена цен | [Добавить страницу](https://example.com) |
-| 2023 | Магазин настенных панелей, добавление 84 SKU | [ecosimple.ru](https://github.com/ormviking/portfolio-ru/edit/main/files/b-02.md) |
+| 2023 | Магазин настенных панелей, добавление 84 SKU | [ecosimple.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-02.md) |
 
