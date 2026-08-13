@@ -14,6 +14,7 @@
 | 2022 | Продажа тротуарной плитки, замена цен | [plitkalobnya.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-05.md) |
 | 2022-2023 | Магазин подарков, редактирование ~500 SKU | [dari66.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-03.md) |
 | 2023 | Магазин настенных панелей, добавление 84 SKU | [ecosimple.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-02.md) |
+| 2023 - 2024 | Аукцион, наполнение контентом | [moscow-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-02.md) |
 | **OpenCart** | |  
 | **MODX** | |  
 | **WP** | |  
