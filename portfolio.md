@@ -19,14 +19,14 @@
 | 2023 | Все для флористики, добавление меты ~200 страниц | [feron-flowers.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-12.md) |
 | 2023 - 2024 | Аукцион, наполнение контентом | [moscow-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-08.md) |
 | 2024 | Промышленное оборудование, наполнение контентом | [amnltd.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-10.md) |
-| **OpenCart** | |  
+| **OPENCART** | |  
 | **MODX** | |  
 | **WP** | |  
-| **Woocomerce** | |  
-| **Simpla** | |  
-| **PrestaShop** | |  
-| **phpMyAdmin** | |  
-| **netcat** | |  
+| **WOOCOMERCE** | |  
+| **SIMPLA** | |  
+| **PRESTASHOP** | |  
+| **PHPMYADMIN** | |  
+| **NETCAT** | |  
 
 ## Работа с маркетплейсами
 
