@@ -31,6 +31,7 @@
 | 2024-2026 | Оборудование HORECA, добавление статей в блог/мета | [technovar.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-21.md) |
 | 2025 | Магазин смартфонов, загрузка изображений | [manyphone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-15.md) |
 | **OPENCART** | |  
+| 2022 | Тротуарная плитка, актуализация цен | [trotuari.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-01.md) |
 | **MODX** | |  
 | **WP** | |  
 | **WOOCOMERCE** | |  
