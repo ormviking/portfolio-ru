@@ -22,6 +22,7 @@
 | 2023 | Магазин фурнитуры, добавление меты | [mosfurnitura.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-17.md) |
 | 2023 | Аукционный дом, редактирование страниц | [peterburg-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-18.md) |
 | 2023 - 2024 | Аукцион, наполнение контентом | [moscow-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-08.md) |
+| 2023 - 2024 | Экобезопасность, добавление новостей | [polyinform.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-22.md) |
 | 2023 - 2024 | Торговый дом геосинтетика, редактирование сайта | [tdsoterra.ru/](https://github.com/ormviking/portfolio-ru/blob/main/files/b-20.md) |
 | 2023 - 2025 | Торговый дом геосинтетика, редактирование сайта | [soterra.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-19.md) |
 | 2023 - 2025 | Электрооборудование, обновление меты и текстов | [komplekt-neva.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-14.md) |
