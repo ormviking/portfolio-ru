@@ -8,6 +8,7 @@
 |----|---------|--------------|
 | **БИТРИКС** | |  
 | 2016 | Сайт молодежного движения, загрузка интерактивных книг | [naporoge.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-04.md) |
+| 2016-2017 | ОФИС Рыболовный магазин, загрузка товаров | [turist48.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-000000.md) |
 | 2017-2021 | ОФИС Сайт магазина для кондитеров, добавление и редактирование, ~ 1300 SKU, фотосъемка| [breadbaking.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-07.md) |
 | 2021-2022 | Магазин натурального камня, добавление ~700 SKU, мелкие правки цен | [cutstone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-06.md) |
 | 2022 | Магазин сантехники, добавление ~3000 SKU | [сантехбрянск.рф](https://github.com/ormviking/portfolio-ru/blob/main/files/b-01.md) |
