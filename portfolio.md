@@ -13,6 +13,7 @@
 | 2022 | Магазин сантехники, добавление ~3000 SKU | [сантехбрянск.рф](https://github.com/ormviking/portfolio-ru/blob/main/files/b-01.md) |
 | 2022 | Продажа тротуарной плитки, замена цен | [plitkalobnya.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-05.md) |
 | 2022-2026 | Медтехника, наполнение блога | [ambimed.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-09.md) |
+| 2022-2026 | Проф. косметика, наполнение блога, мета | [gkeratin.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-13.md) |
 | 2022-2023 | Магазин подарков, редактирование ~500 SKU | [dari66.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-03.md) |
 | 2022-2024 | Услуги демонтажа, редактирование сайта | [crushmash.com](https://github.com/ormviking/portfolio-ru/blob/main/files/b-11.md) |
 | 2023 | Магазин настенных панелей, добавление 84 SKU | [ecosimple.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-02.md) |
