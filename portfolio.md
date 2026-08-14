@@ -19,6 +19,7 @@
 | 2022-2024 | Услуги демонтажа, редактирование сайта | [crushmash.com](https://github.com/ormviking/portfolio-ru/blob/main/files/b-11.md) |
 | 2023 | Магазин настенных панелей, добавление 84 SKU | [ecosimple.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-02.md) |
 | 2023 | Все для флористики, добавление меты ~200 страниц | [feron-flowers.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-12.md) |
+| 2023 | Магазин фурнитуры, добавление меты | [mosfurnitura.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-17.md) |
 | 2023 - 2024 | Аукцион, наполнение контентом | [moscow-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-08.md) |
 | 2023 - 2025 | Электрооборудование, обновление меты и текстов | [komplekt-neva.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-14.md) |
 | 2023 - 2025 | Мебельный магазин, редактирование страниц/мета| [megamebel.com](https://github.com/ormviking/portfolio-ru/blob/main/files/b-16.md) |
