@@ -20,8 +20,8 @@
 | 2023 | Все для флористики, добавление меты ~200 страниц | [feron-flowers.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-12.md) |
 | 2023 - 2024 | Аукцион, наполнение контентом | [moscow-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-08.md) |
 | 2023 - 2025 | Электрооборудование, обновление меты и текстов | [komplekt-neva.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-14.md) |
-| 2023 - 2025 | Электрооборудование, обновление меты и текстов | [megamebel.com](https://github.com/ormviking/portfolio-ru/blob/main/files/b-16.md) |
-| 2024 | Мебельный магазин, редактирование страниц/мета | [amnltd.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-10.md) |
+| 2023 - 2025 | Мебельный магазин, редактирование страниц/мета| [megamebel.com](https://github.com/ormviking/portfolio-ru/blob/main/files/b-16.md) |
+| 2024 | Промышленное оборудование, редактирование страниц | [amnltd.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-10.md) |
 | 2025 | Магазин смартфоном, загрузка изображений | [manyphone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-15.md) |
 | **OPENCART** | |  
 | **MODX** | |  
