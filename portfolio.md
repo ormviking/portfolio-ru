@@ -30,7 +30,7 @@
 | 2024 | Промышленное оборудование, редактирование страниц | [amnltd.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-10.md) |
 | 2024-2026 | Оборудование HORECA, добавление статей в блог/мета | [technovar.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-21.md) |
 | 2025 | Магазин смартфонов, загрузка изображений | [manyphone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-15.md) |
-| **** | **OPENCART** |  ********* |
+| **** |<div align="center"><b>OPENCART</b></div>|  ********* |
 | 2022-2026 | Бытовая техника, наполнение блога, категории | [lite-mobile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-07.md) |
 | 2022 | Тротуарная плитка, актуализация цен | [trotuari.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-01.md) |
 | 2022 | Сайт ресторана, наполнение сайта, ~120 SKU | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
@@ -39,17 +39,17 @@
 | 2023 | Проф. средства для волос, редактирование сайта | [innovatis-hair.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-06.md) |
 | 2023 | Магазин шин, редактирование сайта, мета | [rezinavsem.ru ](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-08.md) |
 | 2023-2024 | Алкогольный магазин, наполнение сайта, ~300 SKU | [ekowine.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
-| **** | **MODX** |  ********* | 
+| **** |<div align="center"><b>MODX</b></div>|  ********* | 
 | 2022 | Металлопрокат, сложная верстка статей | [metalloprokat.com](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-01.md) |
 | 2023-2025 | Металлообработка, редактирование сайта | [semtreugolnikov.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-02.md) |
-| **WP** | |  
-| **WOOCOMERCE** | |  
-| **** | **SIMPLA** |  ********* | 
+| **** |<div align="center"><b>WP</b></div>|  ********* | 
+| **** |<div align="center"><b>WOOCOMERCE</b></div>|  ********* | 
+| **** | <div align="center"><b>SIMPLA</b></div> |  ********* | 
 | 2022 | Тротуарная плитка, наполнение сайта | [eva-stroy1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-01.md) |
 | 2022 | Тротуарная плитка, наполнение сайта | [yardgarden.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-02.md) |
-| **PRESTASHOP** | |  
-| **PHPMYADMIN** | |  
-| **NETCAT** | |  
+| **** |<div align="center"><b>PRESTASHOP</b></div>|  ********* | 
+| **** |<div align="center"><b>PHPMYADMIN</b></div>|  ********* | 
+| **** |<div align="center"><b>NETCAT</b></div>|  ********* | 
 
 ## Работа с маркетплейсами
 
