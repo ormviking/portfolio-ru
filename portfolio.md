@@ -33,9 +33,9 @@
 | **OPENCART** | |  
 | 2022-2026 | Бытовая техника, наполнение блога, категории | [lite-mobile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-07.md) |
 | 2022 | Тротуарная плитка, актуализация цен | [trotuari.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-01.md) |
-| 2022 | Сайт ресторана, наполнение сайта | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
-| 2022 | Товары для лиц с ОВЗ, наполнение сайта | [retile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
-| 2023 | Прачечное оборудование, наполнение сайта | [stirka.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-03.md) |
+| 2022 | Сайт ресторана, наполнение сайта, ~120 SKU | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
+| 2022 | Товары для лиц с ОВЗ, наполнение сайта, ~500 SKU | [retile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
+| 2023 | Прачечное оборудование, наполнение сайта, ~600 SKU | [stirka.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-03.md) |
 | 2023 | Проф. средства для волос, редактирование сайта | [innovatis-hair.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-06.md) |
 | 2023-2024 | Алкогольный магазин, наполнение сайта, ~300 SKU | [ekowine.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
 | **MODX** | |  
