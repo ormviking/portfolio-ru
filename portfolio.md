@@ -5,7 +5,7 @@
 ## Добавление и редактирование товаров/материалов/меты
 
 | Год | Краткое описание | Подробнее
-|----|---------|--------------|
+|----|---------|:---:|
 | **** | <div align="center"><b>БИТРИКС</b></div> |  ********* |
 | 2016 | Сайт молодежного движения, загрузка интерактивных книг | [naporoge.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-04.md) |
 | 2016-2017 | ОФИС Рыболовный магазин, загрузка товаров, фотосъемка | [turist48.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-23.md) |
@@ -23,7 +23,7 @@
 | 2023 | Аукционный дом, редактирование страниц | [peterburg-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-18.md) |
 | 2023 - 2024 | Аукцион, наполнение контентом | [moscow-auction.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-08.md) |
 | 2023 - 2024 | Экобезопасность, добавление новостей | [polyinform.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-22.md) |
-| 2023 - 2024 | Торговый дом геосинтетика, редактирование сайта | [tdsoterra.ru/](https://github.com/ormviking/portfolio-ru/blob/main/files/b-20.md) |
+| 2023 - 2024 | Торговый дом геосинтетика, редактирование сайта | [tdsoterra.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-20.md) |
 | 2023 - 2025 | Торговый дом геосинтетика, редактирование сайта | [soterra.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-19.md) |
 | 2023 - 2025 | Электрооборудование, обновление меты и текстов | [komplekt-neva.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-14.md) |
 | 2023 - 2025 | Мебельный магазин, редактирование страниц/мета| [megamebel.com](https://github.com/ormviking/portfolio-ru/blob/main/files/b-16.md) |
