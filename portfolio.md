@@ -35,6 +35,7 @@
 | 2022 | Сайт ресторана, наполнение сайта | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
 | 2022 | Товары для лиц с ОВЗ, наполнение сайта | [retile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
 | 2023 | Прачечное оборудование, наполнение сайта | [stirka.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-03.md) |
+| 2023-2024 | Алкогольный магазин, наполнение сайта | [ekowine.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
 | **MODX** | |  
 | **WP** | |  
 | **WOOCOMERCE** | |  
