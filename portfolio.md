@@ -6,7 +6,7 @@
 
 | Год | Краткое описание | Подробнее
 |----|---------|--------------|
-| **БИТРИКС** | |  
+|  | **БИТРИКС** |  
 | 2016 | Сайт молодежного движения, загрузка интерактивных книг | [naporoge.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-04.md) |
 | 2016-2017 | ОФИС Рыболовный магазин, загрузка товаров, фотосъемка | [turist48.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-23.md) |
 | 2017-2021 | ОФИС Сайт магазина для кондитеров, добавление и редактирование, ~ 1300 SKU, фотосъемка| [breadbaking.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-07.md) |
@@ -30,7 +30,7 @@
 | 2024 | Промышленное оборудование, редактирование страниц | [amnltd.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-10.md) |
 | 2024-2026 | Оборудование HORECA, добавление статей в блог/мета | [technovar.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-21.md) |
 | 2025 | Магазин смартфонов, загрузка изображений | [manyphone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-15.md) |
-| **OPENCART** | |  
+| | **OPENCART** |  
 | 2022-2026 | Бытовая техника, наполнение блога, категории | [lite-mobile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-07.md) |
 | 2022 | Тротуарная плитка, актуализация цен | [trotuari.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-01.md) |
 | 2022 | Сайт ресторана, наполнение сайта, ~120 SKU | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
