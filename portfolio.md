@@ -6,7 +6,7 @@
 
 | Год | Краткое описание | Подробнее
 |----|---------|--------------|
-|  | **БИТРИКС** |  
+| ---- | **БИТРИКС** |  -------------- |
 | 2016 | Сайт молодежного движения, загрузка интерактивных книг | [naporoge.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-04.md) |
 | 2016-2017 | ОФИС Рыболовный магазин, загрузка товаров, фотосъемка | [turist48.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-23.md) |
 | 2017-2021 | ОФИС Сайт магазина для кондитеров, добавление и редактирование, ~ 1300 SKU, фотосъемка| [breadbaking.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-07.md) |
