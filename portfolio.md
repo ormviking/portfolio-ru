@@ -43,6 +43,7 @@
 | **WP** | |  
 | **WOOCOMERCE** | |  
 | **SIMPLA** | |  
+| 2022 | Тротуарная плитка, наполнение сайта | [eva-stroy1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-01.md) |
 | **PRESTASHOP** | |  
 | **PHPMYADMIN** | |  
 | **NETCAT** | |  
