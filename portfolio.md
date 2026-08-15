@@ -30,7 +30,7 @@
 | 2024 | Промышленное оборудование, редактирование страниц | [amnltd.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-10.md) |
 | 2024-2026 | Оборудование HORECA, добавление статей в блог/мета | [technovar.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-21.md) |
 | 2025 | Магазин смартфонов, загрузка изображений | [manyphone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-15.md) |
-| | **OPENCART** |  
+| **** | **OPENCART** |  ********* |
 | 2022-2026 | Бытовая техника, наполнение блога, категории | [lite-mobile.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-07.md) |
 | 2022 | Тротуарная плитка, актуализация цен | [trotuari.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-01.md) |
 | 2022 | Сайт ресторана, наполнение сайта, ~120 SKU | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
@@ -42,8 +42,9 @@
 | **MODX** | |  
 | **WP** | |  
 | **WOOCOMERCE** | |  
-| **SIMPLA** | |  
+| **** | **SIMPLA** |  ********* | 
 | 2022 | Тротуарная плитка, наполнение сайта | [eva-stroy1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-01.md) |
+| 2022 | Тротуарная плитка, наполнение сайта | [yardgarden.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-02.md) |
 | **PRESTASHOP** | |  
 | **PHPMYADMIN** | |  
 | **NETCAT** | |  
