@@ -51,7 +51,7 @@
 | **** |<div align="center"><b>PRESTASHOP</b></div>|  ********* | 
 | 2022-2025 | Принтеры и расходники, комплексное наполнение сайта | [inktoner.ee](https://github.com/ormviking/portfolio-ru/blob/main/files/ps-01.md) |
 | 2022-2025 | Принтеры и расходники, комплексное наполнение сайта | [helsiko.ee](https://github.com/ormviking/portfolio-ru/blob/main/files/ps-02.md) |
-| 2024-2025 | Принтеры и расходники, комплексное наполнение сайта | [etiketid.ee.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/ps-03.md) |
+| 2024-2025 | Принтеры и расходники, комплексное наполнение сайта | [etiketid.ee](https://github.com/ormviking/portfolio-ru/blob/main/files/ps-03.md) |
 | **** |<div align="center"><b>PHPMYADMIN</b></div>|  ********* | 
 | **** |<div align="center"><b>NETCAT</b></div>|  ********* | 
 
