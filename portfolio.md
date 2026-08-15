@@ -32,6 +32,7 @@
 | 2025 | Магазин смартфонов, загрузка изображений | [manyphone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/b-15.md) |
 | **OPENCART** | |  
 | 2022 | Тротуарная плитка, актуализация цен | [trotuari.net](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-01.md) |
+| 2022 | Сайт ресторана, наполнение сайта | [labomba-msk.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-02.md) |
 | **MODX** | |  
 | **WP** | |  
 | **WOOCOMERCE** | |  
