@@ -39,7 +39,8 @@
 | 2023 | Проф. средства для волос, редактирование сайта | [innovatis-hair.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-06.md) |
 | 2023 | Магазин шин, редактирование сайта, мета | [rezinavsem.ru ](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-08.md) |
 | 2023-2024 | Алкогольный магазин, наполнение сайта, ~300 SKU | [ekowine.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
-| **MODX** | |  
+| **** | **MODX** |  ********* | 
+| 2022 | Металлопрокат, сложная верстка статей | [metalloprokat.com](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-01.md) |
 | **WP** | |  
 | **WOOCOMERCE** | |  
 | **** | **SIMPLA** |  ********* | 
