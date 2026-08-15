@@ -53,6 +53,29 @@
 | 2022-2025 | Принтеры и расходники, комплексное наполнение сайта | [helsiko.ee](https://github.com/ormviking/portfolio-ru/blob/main/files/ps-02.md) |
 | 2024-2025 | Принтеры и расходники, комплексное наполнение сайта | [etiketid.ee](https://github.com/ormviking/portfolio-ru/blob/main/files/ps-03.md) |
 | **** |<div align="center"><b>PHPMYADMIN</b></div>|  ********* | 
+| 2022 | Тротуарная плитка, редактирование сайта | [ekaron.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-01.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [plitkakovka1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-02.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [armrus-plitka.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-03.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [kontstone.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-04.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [sm-stroyplit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-05.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [trotuarnayaplitka-spb.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-06.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [tula-plit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-07.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [trotuarnaya-plitka1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-08.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [stroy-dvor71.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-09.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [smk-stroyplit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-10.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [servisplit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-11.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [proektplitka.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-12.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [plitproekt.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-13.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [amstroitel.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-14.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [art-prom-stroy.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-15.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [art-trotuar.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-16.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [bruschatka2000.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-17.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [plitka-lend.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-18.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [plitka-gals.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-19.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [plitka-dvor.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-20.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [nks-stroy-garant.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-21.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [kamen-stroy1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-22.md) |
+| 2022 | Тротуарная плитка, редактирование сайта | [imperia-plit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/pa-23.md) |
 | **** |<div align="center"><b>NETCAT</b></div>|  ********* | 
 
 ## Работа с маркетплейсами
