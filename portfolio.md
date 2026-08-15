@@ -41,6 +41,7 @@
 | 2023-2024 | Алкогольный магазин, наполнение сайта, ~300 SKU | [ekowine.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/oc-05.md) |
 | **** |<div align="center"><b>MODX</b></div>|  ********* | 
 | 2022 | Металлопрокат, сложная верстка статей | [metalloprokat.com](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-01.md) |
+| 2023-2025 | Клиника, редактирование сайта | [zelkinezis.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-03.md) |
 | 2023-2025 | Металлообработка, редактирование сайта | [semtreugolnikov.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-02.md) |
 | **** |<div align="center"><b>WP</b></div>|  ********* | 
 | **** |<div align="center"><b>WOOCOMERCE</b></div>|  ********* | 
