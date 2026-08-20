@@ -82,4 +82,4 @@
 
 | Год | Краткое описание | Подробнее
 |----|---------|--------------|
-| 2022 - наст. время | Работа с листингами, товары +18, Amazon | Healthy and Active  
+| 2022 - наст. время | Работа с листингами, товары +18, Amazon | [Healthy and Active](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-01.md)  
