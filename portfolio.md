@@ -85,3 +85,4 @@
 | 2022 - наст. время | Работа с листингами, товары +18, Amazon | [Healthy and Active](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-01.md)  
 | 2022 - 2024 | Работа с листингами, ювелирные украшения, Amazon | [EDELIND](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-02.md)  
 | 2022 - 2025 | Работа с листингами, оргтехника, экосистема Pigu | [Inktoner](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-03.md)  
+| 2022 - 2024 | Работа с листингами, оргтехника, экосистема Varle | [Inktoner](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-04.md)  
