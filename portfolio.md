@@ -62,12 +62,12 @@
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2023-2026 | Школа массажа, редактирование сайта | [shkolamm.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-19.md) |
+| 2023 | Digital-агентство, редактирование сайта | [strogos.co.il](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-20.md) |
+| 2023 | Экологическое сопровождение, редактирование сайта | [sudoeco.com](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-21.md) |
+| 2024 | Услуги демонтажа, редактирование сайта | [tornado-mos.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-22.md) |
+| 2023-2024 | Спецтехника, редактирование сайта | [xcmg-bif.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-23.md) |
+| 2022 | Риэлторское агенство, редактирование сайта | [antalya-new-home.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-24.md) |
 | **** |<div align="center"><b>WOOCOMERCE</b></div>|  ********* | 
 | **** | <div align="center"><b>SIMPLA</b></div> |  ********* | 
 | 2022 | Тротуарная плитка, наполнение сайта | [eva-stroy1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-01.md) |
@@ -109,4 +109,4 @@
 | 2022 - наст. время | Работа с листингами, товары +18, Amazon | [Healthy and Active](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-01.md)  
 | 2022 - 2024 | Работа с листингами, ювелирные украшения, Amazon | [EDELIND](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-02.md)  
 | 2022 - 2025 | Работа с листингами, оргтехника, экосистема Pigu | [Inktoner](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-03.md)  
-| 2022 - 2024 | Работа с листингами, оргтехника, экосистема Varle | [Inktoner](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-04.md)  
+| 2022 - 2024 | Работа с листингами, оргтехника, Varle | [Inktoner](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-04.md)  
