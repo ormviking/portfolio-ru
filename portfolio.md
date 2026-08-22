@@ -110,3 +110,10 @@
 | 2022 - 2024 | Работа с листингами, ювелирные украшения, Amazon | [EDELIND](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-02.md)  
 | 2022 - 2025 | Работа с листингами, оргтехника, экосистема Pigu | [Inktoner](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-03.md)  
 | 2022 - наст. время | Работа с листингами, товары +18, Amazon | [Healthy and Active](https://github.com/ormviking/portfolio-ru/blob/main/files/mp-01.md)  
+
+## Публикация на сторонних ресурсах
+| Год | Краткое описание | Подробнее
+|----|---------|--------------|
+| 2026 | ЯДзен, Запасной план | [zapasnojplan](https://github.com/ormviking/portfolio-ru/blob/main/files/yd-01.md)  
+| 2026 | ЯДзен, Все о работе | [allofwork](https://github.com/ormviking/portfolio-ru/blob/main/files/yd-02.md)  
+| 2026 | ЯДзен, Тестим аниме и мангу | [amineimangatest](https://github.com/ormviking/portfolio-ru/blob/main/files/yd-03.md)  
