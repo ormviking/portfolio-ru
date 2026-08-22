@@ -59,9 +59,9 @@
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
-| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2026 | Клининг, редактирование сайта | [personalservice.spb.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-16.md) |
+| 2022-2023 | Промышленные ёмкости, редактирование сайта | [polytank.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-17.md) |
+| 2023-2026 | Технические ёмкости, редактирование сайта | [promo-tek.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-18.md) |
 | 2023-2026 | Школа массажа, редактирование сайта | [shkolamm.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-19.md) |
 | 2023 | Digital-агентство, редактирование сайта | [strogos.co.il](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-20.md) |
 | 2023 | Экологическое сопровождение, редактирование сайта | [sudoeco.com](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-21.md) |
