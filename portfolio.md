@@ -45,6 +45,29 @@
 | 2023-2025 | Металлообработка, редактирование сайта | [semtreugolnikov.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/mx-02.md) |
 | **** |<div align="center"><b>WP</b></div>|  ********* | 
 | 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
+| 2024 | Типография, редактирование сайта | [tzenit.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/wp-01.md) |
 | **** |<div align="center"><b>WOOCOMERCE</b></div>|  ********* | 
 | **** | <div align="center"><b>SIMPLA</b></div> |  ********* | 
 | 2022 | Тротуарная плитка, наполнение сайта | [eva-stroy1.ru](https://github.com/ormviking/portfolio-ru/blob/main/files/s-01.md) |
